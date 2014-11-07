@@ -264,7 +264,7 @@ http://alcatraz.io
 [git-extras](https://github.com/visionmedia/git-extras) GIT utilities -- repo summary, repl, changelog population, author commit percentages and more      
 [ios-makefile](https://github.com/lexrus/ios-makefile) The universal makefile for my iOS projects distributes IPAs in seconds      
 [rchook](https://github.com/musictheory/rchook) Make Xcode bump build #, tag git, and archive files on Product->Archive           
-
+[more](http://www.appance.com/category/ios/idevelop/libraries-components/) 
 
 
 #Swift
