@@ -270,3 +270,5 @@ http://alcatraz.io
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple          
 
+#Chat
+[linphone](http://www.linphone.org/technical-corner/linphone/downloads) linphone
